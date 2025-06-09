@@ -75,8 +75,6 @@ let songs = [
             { time: 89, text: "From where we began (you know where we started)" },
             { time: 92.8, text: "Oh, I'll tell you all about it when I see you again (let me tell you),When I see you again" },
             { time: 101, text: "Oh, oh oh oh" },
-            
-    
         ]
     },
     {
