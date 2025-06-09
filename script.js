@@ -45,7 +45,7 @@ let songs = [
         title: "See You Again",
         artist: "TiennDunxgg",
         album: "Good Bye",
-        albumArtUrl: "https://tse3.mm.bing.net/th?id=OIP.VwivM--7Xx_SmgsqXBLi8AAAAA&pid=Api&P=0&h=220",
+        albumArtUrl: "img/1.png",
         audioSrc: "audio/Wiz Khalifa - See You Again.m4a",
         videoBgSrc: "videos/See You Again.mov", // Đường dẫn video nền đặc biệt của bài hát này
 
@@ -53,8 +53,8 @@ let songs = [
         lyrics: [
             { time: 0.8, text: "... ... ..." },
             { time: 11, text: "It's been a long day without you, my friend" },
-            { time: 18, text: "And I'll tell you all about it when I see you again" },
-            { time: 24, text: "We've come a long way from where we began" },
+            { time: 17.8, text: "And I'll tell you all about it when I see you again" },
+            { time: 23.8, text: "We've come a long way from where we began" },
             { time: 30, text: "Oh, I'll tell you all about it when I see you again" },
             { time: 36, text: "When I see you again" },
             { time: 40, text: "Damn, who knew?" },
