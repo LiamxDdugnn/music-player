@@ -46,7 +46,7 @@ let songs = [
         artist: "TiennDunxgg",
         album: "Good Bye",
         albumArtUrl: "https://tse3.mm.bing.net/th?id=OIP.VwivM--7Xx_SmgsqXBLi8AAAAA&pid=Api&P=0&h=220",
-        audioSrc: "audio/tambiet.mp3",
+        audioSrc: "audio/Wiz Khalifa - See You Again.mp3",
         videoBgSrc: "videos/tambiet.mp4", // Đường dẫn video nền đặc biệt của bài hát này
 
 // Lời bài hát với dấu thời gian trong vài giây
