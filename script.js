@@ -45,7 +45,7 @@ let songs = [
         title: "See You Again",
         artist: "TiennDunxgg",
         album: "Good Bye",
-        albumArtUrl: "img/1.png",
+        albumArtUrl: "https://liamxddugnn.github.io/music-player/img/1.png",
         audioSrc: "audio/Wiz Khalifa - See You Again.m4a",
         videoBgSrc: "videos/See You Again.mov", // Đường dẫn video nền đặc biệt của bài hát này
 
@@ -66,6 +66,7 @@ let songs = [
             { time: 58, text: "Those were the days, hard work forever pays" },
             { time: 61, text: "Now I see you in a better place (see you in a better place)" },
             { time: 65, text: "Uh" },
+            { time: 
         ]
     },
     {
