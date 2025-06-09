@@ -66,7 +66,17 @@ let songs = [
             { time: 58, text: "Those were the days, hard work forever pays" },
             { time: 61, text: "Now I see you in a better place (see you in a better place)" },
             { time: 65, text: "Uh" },
-            { time: 
+            { time: 65.6, text: "How can we not talk about family when family's all that we got?" },
+            { time: 68,8, text: "Everythin' I went through, you were standin' there by my side" },
+            { time: 71,8, text: "And now you gon' be with me for the last ride" },
+            { time: 74,8, text: "It's been a long day without you, my friend" },
+            { time: 80,7, text: "And I'll tell you all about it when I see you again (I'll see you again)" },
+            { time: 86,8, text: "We've come a long way (yeah, we came a long way)" },
+            { time: 89, text: "From where we began (you know where we started)" },
+            { time: 92.8, text: "Oh, I'll tell you all about it when I see you again (let me tell you),When I see you again" },
+            { time: 101, text: "Oh, oh oh oh" },
+            
+    
         ]
     },
     {
